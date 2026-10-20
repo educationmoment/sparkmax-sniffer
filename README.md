@@ -1,4 +1,4 @@
-# libsparkmax — SPARK MAX over raw CAN (CANUSB / SLCAN / SocketCAN)
+# 
 
 ```
 include/sm_can.h      frame struct + transport vtable, SLCAN + SocketCAN openers
