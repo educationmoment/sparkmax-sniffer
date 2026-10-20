@@ -1,4 +1,4 @@
-# 
+this was created in part of lunabotics 2025 and 2026. i finsihed this project in novemeber of 2025. i am releasing it because i forgot to earlier
 
 ```
 include/sm_can.h      frame struct + transport vtable, SLCAN + SocketCAN openers
@@ -47,3 +47,9 @@ sm_bus_destroy(bus);                                // zero setpoints, disable, 
 ```
 
 ## tested with firmware 25
+
+hardware used:
+sparkmax motor controller : https://www.revrobotics.com/rev-11-2158/
+canable from odrive : https://shop.odriverobotics.com/products/usb-can-adapter
+
+(any can adapter should work, this is the one i had on hand)
