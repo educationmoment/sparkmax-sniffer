@@ -51,6 +51,8 @@ sm_bus_destroy(bus);                                // zero setpoints, disable, 
 hardware used:
 sparkmax motor controller : https://www.revrobotics.com/rev-11-2158/
 
-\ncanable from odrive : https://shop.odriverobotics.com/products/usb-can-adapter
+canable from odrive : https://shop.odriverobotics.com/products/usb-can-adapter
 
 (any can adapter should work, this is the one i had on hand)
+
+tested on ubuntu 22.04
